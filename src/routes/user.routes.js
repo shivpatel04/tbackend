@@ -16,6 +16,6 @@ router.route("/register").post(
         }
     ]),
     registerUser
-)       //https://localhost:8000/api/v1/users/register
+);     //https://localhost:8000/api/v1/users/register
 
 export default router
